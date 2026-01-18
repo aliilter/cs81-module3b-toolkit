@@ -18,3 +18,7 @@
 ## Result 4 - multiply(a, b)
 - multiply(3, 4) => 12
 - multiply(-2, 8) => -16
+
+## Result 5 - sumTo(n)
+- sumTo(5) => 15
+- sumTo(1) => 1

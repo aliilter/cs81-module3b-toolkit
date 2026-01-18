@@ -17,3 +17,7 @@
 ## Prediction 4 - multiply(a, b)
 - multiply(3, 4) should return 12
 - multiply(-2, 8) should return -16
+
+## Prediction 5 - sumTo(n)
+- sumTo(5) should return 15
+- sumTo(1) should return 1
