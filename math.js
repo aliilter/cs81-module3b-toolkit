@@ -5,5 +5,31 @@ function double(n) {
 }
 
 
+
+
+
+
+function square(n) {
+    return n * n;
+}
+
+
+function isEven(n) {
+    return n % 2 === 0;
+}
+
+function isOdd(n) {
+    return n % 2 !== 0;
+}
+
+
+function multiply(a, b) {
+    return a * b;
+}
+
+
 //test output
 console.log(double(5));
+console.log(square(5));
+console.log(isEven(5));
+console.log(isOdd(5));
