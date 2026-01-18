@@ -36,6 +36,8 @@ function sumTo(n) {
 }
 
 
+
+
 //test output
 console.log(double(5));
 console.log(square(5));
